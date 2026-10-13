@@ -1,0 +1,10 @@
+{
+  "000000:NS0001": {
+    "current_timestamp": "2026-01-04T00:00:00Z",
+    "observations": [
+      {"timestamp": "2026-01-01T00:00:00Z", "text": "SYNTHETIC concept and prior context 1", "source": "SCHEMA EXAMPLE ONLY"},
+      {"timestamp": "2026-01-02T00:00:00Z", "text": "SYNTHETIC concept and prior context 2", "source": "SCHEMA EXAMPLE ONLY"},
+      {"timestamp": "2026-01-03T00:00:00Z", "text": "SYNTHETIC concept and prior context 3", "source": "SCHEMA EXAMPLE ONLY"}
+    ]
+  }
+}

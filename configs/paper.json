@@ -1,0 +1,19 @@
+{
+  "novelty_threshold": null,
+  "salience_threshold": 0.6,
+  "trajectories": 5,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_new_tokens": 2048,
+  "consistency_threshold": 0.8,
+  "beta_semantic": 0.4,
+  "beta_temporal": 0.6,
+  "temporal_window": 3,
+  "assimilation_threshold": 0.7,
+  "retrieval_top_k": 5,
+  "retrieval_min_similarity": 0.0,
+  "use_detection": true,
+  "use_consistency": true,
+  "use_refinement": true,
+  "use_reasoning_enhancement": true
+}

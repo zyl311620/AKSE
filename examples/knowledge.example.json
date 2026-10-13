@@ -1,0 +1,8 @@
+[
+  {
+    "concept": "distributed memory",
+    "text": "Distributed memory allocates storage across computing nodes.",
+    "source": "SYNTHETIC SCHEMA EXAMPLE, not a Wikipedia document or experimental seed",
+    "cluster": "memory-systems"
+  }
+]
